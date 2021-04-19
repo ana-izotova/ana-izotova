@@ -4,7 +4,7 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Anastasia, and a few months ago I've discovered that I'm quite passionate about coding, so now I've become a junior frontend developer! I love to solve tricky coding tasks and pazzles and to learn new things every day.
+My name is Anastasia, and last year I've discovered that I'm quite passionate about coding, so now I've become a junior frontend developer! I love to solve tricky coding tasks and puzzles and to learn new things every day.
 
 ### Technologies I'm using:
 
@@ -47,12 +47,11 @@ My name is Anastasia, and a few months ago I've discovered that I'm quite passio
 ### Connect with me:
 
 [<img align="left" alt="anastasia's email | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="anastasia's twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="anastasia's facebook | Facebook" width="22px" src="https://user-images.githubusercontent.com/60597097/115196596-c4dbba00-a0f8-11eb-9643-ee35ce21898a.png" />][facebook]
 [<img align="left" alt="anastasia's linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="anastasia's instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="anastasia's twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [gmail]: mailto:ana.izotova@gmail.com
-[twitter]: https://twitter.com/junkie_junk
-[instagram]: https://www.instagram.com/junkie_junk
+[facebook]: https://www.facebook.com/izotova.ana
 [linkedin]: https://www.linkedin.com/in/anastasia-izotova/
-
+[twitter]: https://twitter.com/junkie_junk
