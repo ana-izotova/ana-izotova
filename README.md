@@ -43,6 +43,7 @@ My name is Anastasia, and last year I've discovered that I'm quite passionate ab
 | [Keksobooking](https://keksobooking-ana-izotova.vercel.app) | A service for placing ads to rent real estate in the center of Tokyo. Users are given the opportunity to view or post ads. | Vanilla JavaScript (ES6) | [github](https://github.com/ana-izotova/1385139-keksobooking-21)
 | [Cat Energy](https://cat-energy-ana-izotova.vercel.app) | An online store specialized in fitness food for cats. | HTML, SCSS, Vanilla JavaScript (ES5), Gulp, Adaptive, BEM | [github](https://github.com/ana-izotova/1385139-cat-energy-20)
 | [Sedona](https://sedona-ana-izotova.vercel.app) | A tourism website of the city of Sedona | HTML, CSS, Vanilla JavaScript (ES5) | [github](https://github.com/ana-izotova/1385139-sedona-28)
+| Brain Games | Five simple console games, where you enter your answers in response to the question, and the game checks if the answer is right. To win you should give 3 correct answers consecutively. | Vanilla JavaScript (ES6) | [github](https://github.com/ana-izotova/frontend-project-lvl1)
 
 ### Connect with me:
 
