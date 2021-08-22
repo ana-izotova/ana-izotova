@@ -4,7 +4,7 @@
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Anastasia, and last year I've discovered that I'm quite passionate about coding, so now I've become a junior frontend developer! I love to solve tricky coding tasks and puzzles and to learn new things every day.
+My name is Anastasia, and some time ago I've discovered that I'm quite passionate about coding, so I've become a frontend developer! I love to solve tricky coding tasks and puzzles and to learn new things every day.
 
 ### Technologies I'm using:
 
